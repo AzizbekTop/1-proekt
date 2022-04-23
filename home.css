@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Verdana, sans-serif;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.header-title{
+    display: flex;
+    padding-top: 40px;
+    justify-content: space-around;
+}
+.header-svg{
+    gap: 40px;
+    display: flex;
+    align-items: center;
+}
+.header-img{
+    height: 30px;
+    left: 80px;
+    top: 40px;
+}
+.header-link{
+    align-items: center;
+    display: flex;
+    color: #000000;
+    font-weight: 700;
+}
+.header-links{
+    gap: 60px;
+    display: flex;
+}
+.header{
+
+}
